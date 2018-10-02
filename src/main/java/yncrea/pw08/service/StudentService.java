@@ -1,6 +1,6 @@
-package yncrea.pw07.service;
+package yncrea.pw08.service;
 
-import yncrea.pw07.entity.Student;
+import yncrea.pw08.entity.Student;
 
 import java.util.List;
 

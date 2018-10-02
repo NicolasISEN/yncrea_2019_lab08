@@ -1,4 +1,4 @@
-package yncrea.pw07;
+package yncrea.pw08;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

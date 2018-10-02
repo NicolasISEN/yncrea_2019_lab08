@@ -1,4 +1,4 @@
-package yncrea.pw07.entity;
+package yncrea.pw08.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
